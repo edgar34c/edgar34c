@@ -1,7 +1,7 @@
 ### Olá!  👋
 
 ## Sobre mim
-Meu nocme é Edgar Araujo Correa e atualmente resido em Francisco Morato - SP
+Meu nome é Edgar Araujo Correa e atualmente resido em Francisco Morato - SP
 Trabalhei durante mais de 3 anos com suporte técnico e estou estudando para ingressar na área de desenvolvimento.
 
 ## Tecnologias
