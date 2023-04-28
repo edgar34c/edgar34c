@@ -8,34 +8,40 @@ trabalhei durante mais de 3 anos com suporte técnico e estou estudando para ing
 - WEB
 <div style="display: inline_block">
 <figure>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <figcaption>Java Script</figcaption>
 </figure>
- | 
+    | 
 <figure>
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <figcaption>HTML 5</figcaption>
 </figure>
-  | 
+    | 
  <figure>
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <figcaption>CSS 3</figcaption>
 </figure>
     | 
 <figure>
-    <img align="center" alt="PHP" height="30" width="40" src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png">
+    <img align="center" alt="PHP" height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png">
     <figcaption>PHP</figcaption>
 </figure>
-      | 
+    | 
 <figure>
-    <img align="center" alt="Mysql" height="30" width="40" src="https://img.icons8.com/fluency/256/mysql-logo.png">
+    <img align="center" alt="Mysql" height="40" width="40" src="https://img.icons8.com/fluency/256/mysql-logo.png">
     <figcaption>MYSQL</figcaption>
 </figure>
-        | 
+    | 
 <figure>
-    <img align="center" alt="React JS" height="30" width="40" src="https://img.icons8.com/?size=512&id=wPohyHO_qO1a&format=png">
+    <img align="center" alt="React JS" height="40" width="40" src="https://img.icons8.com/?size=512&id=wPohyHO_qO1a&format=png">
     <figcaption>React JS</figcaption>
 </figure>
+    | 
+<figure>
+    <img align="center" alt="Tailwind CSS" height="40" width="40" src="https://img.icons8.com/?size=512&id=CIAZz2CYc6Kc&format=png">
+    <figcaption>Tailwind CSS</figcaption>
+</figure>
+    
 </div><br>
 
 - Code
@@ -44,7 +50,7 @@ trabalhei durante mais de 3 anos com suporte técnico e estou estudando para ing
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <figcaption>Python</figcaption>
 </figure>
-        | 
+    |
 <figure>
     <img align="center" alt="Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
     <figcaption>Java</figcaption>
