@@ -1,8 +1,7 @@
 ### Olá!  👋
 
 ## Sobre mim
-Meu nome é Edgar Araujo Correa e atualmente resido em Francisco Morato - SP,
-trabalhei durante mais de 3 anos com suporte técnico e estou estudando para ingressar na área de desenvolvimento.
+Olá! Sou Edgar Araujo Correa, residente em Francisco Morato, SP, com mais de 3 anos de experiência em suporte técnico. Atualmente, estou estudando para ingressar na área de desenvolvimento, focado em aprimorar minhas habilidades de programação. Meu perfil no GitHub demonstra meu progresso e empenho em me tornar um desenvolvedor qualificado. Estou animado com as possibilidades dessa área e determinado a contribuir para a comunidade de desenvolvimento.
 
 ## Tecnologias
 - WEB
