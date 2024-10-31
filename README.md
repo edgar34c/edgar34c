@@ -1,9 +1,9 @@
-### Olá!  👋
+### Hello!  👋
 
-## Sobre mim
-Olá! Sou Edgar Araujo Correa, residente em Francisco Morato, SP, com mais de 3 anos de experiência em suporte técnico. Atualmente, estou estudando para ingressar na área de desenvolvimento, focado em aprimorar minhas habilidades de programação. Meu perfil no GitHub demonstra meu progresso e empenho em me tornar um desenvolvedor qualificado. Estou animado com as possibilidades dessa área e determinado a contribuir para a comunidade de desenvolvimento.
+## About me
+Hello! I'm Edgar, currently based in Dublin, Ireland, with over three years of experience in technical support. I am studying to transition into software development, focused on honing my programming skills. My GitHub profile reflects my progress and commitment to becoming a skilled developer. I'm enthusiastic about the opportunities in this field and determined to make valuable contributions to the development community.
 
-## Tecnologias
+## Technologies
 - WEB
 <div style="display: inline_block">
 <figure>
@@ -57,7 +57,7 @@ Olá! Sou Edgar Araujo Correa, residente em Francisco Morato, SP, com mais de 3 
 
 </div><br>
 
-## Posso ser encontrado em
+## I can be found at
 <div>
   <a href = "mailto:edgararaujocorrea@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/edgar-araujo-correa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
