@@ -37,7 +37,7 @@ Hello! I'm Edgar, currently based in Dublin, Ireland, with over three years of e
 </figure>
     | 
 <figure>
-    <img align="center" alt="React JS" height="40" width="40" src="https://img.icons8.com/?size=512&id=wPohyHO_qO1a&format=png">
+    <img align="center" alt="Vue JS" height="40" width="40" src="https://img.icons8.com/?size=100&id=eETV3RNHVrWA&format=png&color=000000">
     <figcaption>Vue JS</figcaption>
 </figure>
     | 
